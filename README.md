@@ -9,6 +9,10 @@
 
 #### &emsp; [在线体验](https://ajreport.beliefteam.cn/index.html "链接"): https://ajreport.beliefteam.cn/index.html  &emsp;体验账号：guest 密码：guest
 
+## React版本
+还在开发中感兴趣的提交PR
+#### https://gitee.com/qlsgr/DataReport/
+
 #### 文档位置
 
 #### &emsp; [在线文档](https://ajreport.beliefteam.cn/report-doc/ "doc"): https://ajreport.beliefteam.cn/report-doc/ <br>
