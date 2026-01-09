@@ -10,7 +10,7 @@
 #### &emsp; [在线体验](https://ajreport.beliefteam.cn/index.html "链接"): https://ajreport.beliefteam.cn/index.html  &emsp;体验账号：guest 密码：guest
 
 ## React版本
-还在开发中感兴趣的提交PR
+还在开发中, 感兴趣可以去提交图表组件，把vue版本的图表组件挪过去。
 #### https://gitee.com/qlsgr/DataReport/
 
 #### 文档位置
