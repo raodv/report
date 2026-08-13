@@ -7,7 +7,12 @@
 
 ## 在线体验
 
-#### &emsp; [在线体验](https://ajreport.beliefteam.cn/index.html "链接"): https://ajreport.beliefteam.cn/index.html  &emsp;体验账号：guest 密码：guest
+#### 服务器到期，在线体验已下线。请自行部署。
+
+#### 模板链接
+
+通过百度网盘分享的文件：大屏模板
+链接:https://pan.baidu.com/s/1rkjBiiTpA4DBQdep-uAYzQ?pwd=w3rm提取码:w3rm
 
 ## React版本
 #### https://gitee.com/qlsgr/DataReport/
@@ -18,13 +23,6 @@
 #### &emsp; [在线文档](https://ajreport.beliefteam.cn/report-doc/ "doc"): https://ajreport.beliefteam.cn/report-doc/ <br>
 
 源码 doc -> docs -> guide 目录下即所有文档
-
-#### 模板链接
-
-#### &emsp; [模板下载](https://ajreport.beliefteam.cn/download "temp"): https://ajreport.beliefteam.cn/download<br>
-
-通过百度网盘分享的文件：大屏模板
-链接:https://pan.baidu.com/s/1rkjBiiTpA4DBQdep-uAYzQ?pwd=w3rm提取码:w3rm
 
 #### &emsp; [在线提问](https://gitee.com/belief-team/report/issues "issue"): https://gitee.com/belief-team/report/issues <br>
 
