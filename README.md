@@ -20,8 +20,6 @@
 
 #### 文档位置
 
-#### &emsp; [在线文档](https://ajreport.beliefteam.cn/report-doc/ "doc"): https://ajreport.beliefteam.cn/report-doc/ <br>
-
 源码 doc -> docs -> guide 目录下即所有文档
 
 #### &emsp; [在线提问](https://gitee.com/belief-team/report/issues "issue"): https://gitee.com/belief-team/report/issues <br>
@@ -105,7 +103,6 @@
 
 ## 部署方式
 
-**[运行环境参考文档](https://ajreport.beliefteam.cn/report-doc/guide/quicklyDevelop.html)** <br>
 **注意版本兼容性** <br>
 源码 doc -> docs -> guide 目录下即所有文档。<br>
 启动文档（在线文档图片多，打开很慢可以本地启动文档，方便查看） <br>
@@ -117,7 +114,6 @@ npm run docs:dev
 
 ### 发行版部署
 
-**[发行版部署详细文档](https://ajreport.beliefteam.cn/report-doc/guide/quicklyDistribution.html)** <br>
 
 简易步骤
 
@@ -136,7 +132,6 @@ http://serverip:9095
 
 ### 源码编译部署
 
-**[源码编译部署详细文档](https://ajreport.beliefteam.cn/report-doc/guide/quicklySource.html)** <br>
 
 在Linux上先准备好maven、node.js、jdk
 
@@ -168,7 +163,6 @@ http://serverip:9095
 
 ### 前后端分离部署
 
-**[前后端分离部署参考文档](https://ajreport.beliefteam.cn/report-doc/guide/quicklySeparate.html)** <br>
 
 ## 信息安全
 
@@ -185,13 +179,6 @@ spring.gaea.Security.jwtSecret = 修改32位jwt密钥
 建议内网部署，避免公网攻击
 ```
 
-## 快速入门
-
-**[快速入门](https://ajreport.beliefteam.cn/report-doc/guide/quicklyUse.html)** <br>
-
-**[更多社区大屏](https://ajreport.beliefteam.cn/report-doc/guide/bigScreenCase.html)** <br>
-
-**[社区大屏下载链接](https://ajreport.beliefteam.cn/download/)** <br>
 
 ## SQL初始化
 
