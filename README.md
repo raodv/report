@@ -15,7 +15,7 @@
 链接:https://pan.baidu.com/s/1rkjBiiTpA4DBQdep-uAYzQ?pwd=w3rm提取码:w3rm
 
 ## React版本
-#### https://gitee.com/qlsgr/DataReport/
+#### https://gitee.com/belief-team/DataReport
 ![输入图片说明](report-ui/src/assets/images/user/2ae93917-a5c0-4523-869a-155a2c54d8e7.png)
 
 #### 文档位置
